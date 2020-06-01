@@ -11,3 +11,15 @@ def toadstool
 end
 
 toadstool
+
+def link
+  put "It's Dangerous To Go Alone! Take This."
+end
+
+
+
+
+
+
+
+
